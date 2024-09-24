@@ -6,5 +6,6 @@ def enterCombat():
 def exitCombat():
     inCombat = False
 
-while inCombat:
+while inCombat: 
+    print("test")
     
